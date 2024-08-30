@@ -1,2 +1,2 @@
-MY_USERNAME = 'usr'
-MY_PASSWORD = 'pass'
+MY_USERNAME = '14706'
+MY_PASSWORD = 'waynesboro65'
